@@ -75,3 +75,25 @@
 #   p "Around the World"
 #   number += 1
 # end
+
+
+# 9. Write a while loop that asks the user to enter a word and will run forever until the user enters a word with more than 5 letters.
+
+# print "Write as many words as you can. We'll decide when you're done. "
+
+# while true
+#   response = gets.chomp
+#   if response.length > 5
+#     p "Now you're done."
+#     break
+#   end
+# end
+
+
+# 10. Write a while loop that prints the even numbers from 2 to 40.
+
+# number = 2
+# while number <= 40
+#   p number
+#   number += 2
+# end
